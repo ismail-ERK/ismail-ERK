@@ -83,5 +83,5 @@
 * Spring
 * Flutter
 * Frontend Web Development
-* Enterprise resource planning
+* Enterprise Resource Planning (ERP)
 
