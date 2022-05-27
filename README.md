@@ -3,6 +3,8 @@
   ## Hi there 👋, I'm Ismail ✨
 
 ![](https://komarev.com/ghpvc/?username=FaissalElfid&color=&color=yellow)
+   <a href="https://www.github.com/adilmx" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=ismail-ERK&logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   
   I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
