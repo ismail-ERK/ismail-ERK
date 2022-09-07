@@ -81,8 +81,7 @@
 
 <!-- </details> -->
 ## :computer: Technologies I Love
-* Spring
-* Flutter
+* Spring Framework
 * Frontend Web Development
 * Enterprise Resource Planning (ERP)
 
