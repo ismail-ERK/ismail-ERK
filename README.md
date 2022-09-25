@@ -20,7 +20,7 @@
 </a>
 </div>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="adilmx" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-ERK&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="adilmx" />
 </p>
 
 ### 👨‍💻 I have already worked with the following technologies !
