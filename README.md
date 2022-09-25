@@ -7,7 +7,7 @@
   
   I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-erk&show_icons=true&theme=dracula) -->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-erk&show_icons=true&theme=dracula)
 
   
 ## 📫 How to reach me: 
