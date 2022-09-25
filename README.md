@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
-<p align="center">
+<-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-ERK&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="adilmx" />
-</p>
+</p> -->
 
 ### 👨‍💻 I have already worked with the following technologies !
 <details open>
